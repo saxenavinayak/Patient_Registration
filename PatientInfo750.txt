@@ -1,0 +1,9 @@
+First Name: fasaf
+Last Name: 
+Triage Priority: null
+Blood Pressure: 
+Body Temperature: 
+Pulse: 
+Breathing Rate: 
+Description: 
+

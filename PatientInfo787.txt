@@ -1,0 +1,12 @@
+First Name: Johnny
+Last Name: Spam
+Triage Priority: 4
+Blood Pressure: 180/120
+Body Temperature: 25
+Pulse: 60
+Breathing Rate: 45
+Description: This is just a test, patient is 
+doing very well. Patient seems
+to have a minor injury that
+continues to grow each day
+
